@@ -1,5 +1,5 @@
 import test
 
 
-def fun2():
-    pass
+# def fun2():
+#     pass
