@@ -1,0 +1,13 @@
+def create_file():
+    counte = 1
+    path = "/Users/zhanggong/Desktop/Python/"
+    while counte <= 10:
+        file_name = "text" + str(counte)
+        full_path = path + file_name
+        file = open(full_path, 'w')
+        file.write("This is No." + str(counte) + " text file")
+        file.close()
+        counte += 1
+
+
+create_file()
