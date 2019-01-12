@@ -1,0 +1,3 @@
+([('shumaguan',
+   '/Users/zhanggong/Documents/Learn_file/Learn_Code/shumaguan/dist/shumaguan',
+   'EXECUTABLE')],)

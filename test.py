@@ -1,1 +1,5 @@
-print([i//2 for i in range(101)])
+ls = [["A1", "A2"], ["B1", "B2"]]
+
+for row in ls:
+    for column in row:
+        print(column)
